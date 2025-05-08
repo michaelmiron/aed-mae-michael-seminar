@@ -1,0 +1,7 @@
+{
+    "MicroAUC": 0.8544791208791209,
+    "MacroAUC": 0.8551166078047798,
+    "range": 38,
+    "mu": 11,
+    "normalize_scores": false
+}
