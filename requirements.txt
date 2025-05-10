@@ -6,6 +6,7 @@ tensorboard==2.19.0
 timm
 einops
 absl-py>=0.4
+ml-collections
 grpcio>=1.48.2
 markdown>=2.6.8
 packaging
